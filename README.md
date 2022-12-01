@@ -5,3 +5,9 @@ To do so, there are several stored procedures that compare the objects, with the
 Source database must not be modified.
 
 There is also a stored procedure that checks the naming conventions of all objects in the Source database, so that the user can verify if they comply with the conventions before performing the copy.
+
+# Members:
+* [Albanesi Martín](https://github.com/MartinAlbanesi)
+* [Heit Cristian Agustín](https://github.com/devheitt)
+* [Olaechea Lobo Aitor](https://github.com/aitorLob0)
+* [Nappio Eduardo Ariel ](https://github.com/ArielNappio)
