@@ -13,7 +13,7 @@ There is also a stored procedure that checks the naming conventions of all objec
 * [Nappio Eduardo Ariel ](https://github.com/ArielNappio)
 
 # Used Technologies:
-* [Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+* [Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp](https://learn.microsoft.com/en-us/sql/t-sql/functions/functions?view=sql-server-ver16)
 * [Clustered and Nonclustered Indexes](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16)
 * [Stored Procedures](https://learn.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-ver16)
 * [Triggers](https://learn.microsoft.com/en-us/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver16)
