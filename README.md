@@ -11,3 +11,14 @@ There is also a stored procedure that checks the naming conventions of all objec
 * [Heit Cristian Agustín](https://github.com/devheitt)
 * [Olaechea Lobo Aitor](https://github.com/aitorLob0)
 * [Nappio Eduardo Ariel ](https://github.com/ArielNappio)
+
+# Used Technologies:
+* [Functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+* [Clustered and Nonclustered Indexes](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver16)
+* [Stored Procedures](https://learn.microsoft.com/en-us/sql/relational-databases/stored-procedures/create-a-stored-procedure?view=sql-server-ver16)
+* [Triggers](https://learn.microsoft.com/en-us/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver16)
+* [Cursors](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/declare-cursor-transact-sql?view=sql-server-ver16)
+* [Try..Catch](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/try-catch-transact-sql?view=sql-server-ver16)
+* [If..Else](https://learn.microsoft.com/en-us/sql/t-sql/language-elements/if-else-transact-sql?view=sql-server-ver16)
+* [Dynamic SQL](https://www.sqlshack.com/dynamic-sql-in-sql-server/)
+* [Batches of SQL Statements](https://learn.microsoft.com/en-us/sql/odbc/reference/develop-app/batches-of-sql-statements?view=sql-server-ver16)
